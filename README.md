@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Jiacheng Xu / Stardust0831
 
 Ph.D. Candidate at Westlake University. I work on computational chemistry and
