@@ -3,7 +3,8 @@
 Ph.D. Candidate at Westlake University working on computational chemistry and
 materials-science software. My current interests include electronic-structure
 post-processing, molecular dynamics, scientific visualization, and reliable
-GPU/HPC workflows.
+GPU/HPC workflows. I am also a member of the
+[CP2K developers team](https://github.com/orgs/cp2k/teams/cp2k-developers).
 
 ## Current Projects
 
@@ -23,6 +24,9 @@ GPU/HPC workflows.
 
 ## Selected Open-Source Contributions
 
+- [CP2K #5601](https://github.com/cp2k/cp2k/pull/5601) - Fixed CMake dependent
+  option declarations and accelerator backend conditions for NVHPC, SpLA, and
+  Cray power monitoring.
 - [MatterViz #377](https://github.com/janosh/matterviz/pull/377) - Fixed periodic
   isosurface coordinates for integer supercells.
 - [LAMMPS #5029](https://github.com/lammps/lammps/pull/5029) - Fixed a Kokkos
@@ -35,4 +39,4 @@ GPU/HPC workflows.
 ## Tools
 
 `Python` `Rust` `Fortran` `C++` `CUDA` `Kokkos` `CMake` `GitHub Actions`
-`Slurm` `LAMMPS` `ABACUS` `Multiwfn` `VESTA`
+`Slurm` `CP2K` `LAMMPS` `ABACUS` `Multiwfn` `VESTA`
