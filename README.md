@@ -3,8 +3,7 @@
 Ph.D. Candidate at Westlake University working on computational chemistry and
 materials-science software. My current interests include electronic-structure
 post-processing, molecular dynamics, scientific visualization, and reliable
-GPU/HPC workflows. I am also a member of the
-[CP2K developers team](https://github.com/orgs/cp2k/teams/cp2k-developers).
+GPU/HPC workflows.
 
 ## Current Projects
 
