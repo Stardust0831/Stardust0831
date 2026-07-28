@@ -24,6 +24,8 @@ GPU/HPC workflows. I am also a member of the
 
 ## Selected Open-Source Contributions
 
+- [ABACUS #7688](https://github.com/deepmodeling/abacus-develop/pull/7688) - Fixed CUDA-aware MPI synchronization in PGemm.
+- [CP2K #5618](https://github.com/cp2k/cp2k/pull/5618) - Removed the UCC requirement for cuSOLVERMp 0.7 and later.
 - [CP2K #5601](https://github.com/cp2k/cp2k/pull/5601) - Fixed CMake dependent
   option declarations and accelerator backend conditions for NVHPC, SpLA, and
   Cray power monitoring.
